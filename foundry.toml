@@ -1,7 +1,7 @@
 [default]
-src = 'src'
+src = 'contracts'
 out = 'out'
 libs = ['lib']
-# solc_version = "0.6.8" # aave interface version
+optimizer = true
 
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
