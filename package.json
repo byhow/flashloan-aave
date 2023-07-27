@@ -26,7 +26,7 @@
   "devDependencies": {
     "@typechain/ethers-v5": "^10.0.0",
     "husky": "^8.0.0",
-    "lint-staged": "^12.3.7",
+    "lint-staged": "^13.0.0",
     "prettier": "^3.0.0",
     "prettier-plugin-solidity": "^1.0.0-beta.19",
     "solhint": "^3.3.7",
