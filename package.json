@@ -29,7 +29,7 @@
     "lint-staged": "^15.0.0",
     "prettier": "^3.0.0",
     "prettier-plugin-solidity": "^1.0.0-beta.19",
-    "solhint": "^4.0.0",
+    "solhint": "^5.0.0",
     "solhint-plugin-prettier": "^0.1.0",
     "typechain": "^8.0.0"
   },
